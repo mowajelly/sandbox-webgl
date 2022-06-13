@@ -1,0 +1,8 @@
+# Deps
+node_modules/
+
+# Build things
+public/dist/
+
+# Secrets
+.env
