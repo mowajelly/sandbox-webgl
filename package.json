@@ -1,7 +1,7 @@
 {
   "name": "sandbox-webgl",
   "version": "0.0.1",
-  "description": "Experimental webgl and treejs things",
+  "description": "Experimental webgl and threejs things",
   "private": true,
   "scripts": {
     "build:typescript": "tsc",

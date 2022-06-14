@@ -1,5 +1,5 @@
 # ⚗️ Sandbox WebGL
-Experimental webgl and treejs things
+Experimental webgl and threejs things
 
 ## 1. How to use
 Requirement
